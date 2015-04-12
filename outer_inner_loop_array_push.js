@@ -24,3 +24,10 @@ for(var i = 0; i < text.length; i++){
 }
 
 console.log("The elements inside the hits array are: " + hits);
+
+
+if (hits.length === 0){
+    console.log("Your name wasn't found!");
+} else {
+    console.log(hits);
+}
