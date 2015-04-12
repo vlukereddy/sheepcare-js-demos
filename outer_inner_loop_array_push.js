@@ -1,4 +1,4 @@
-var text = "Hello everybody, I'm Peter, I love reading novels, soccer and playing piano. Peter has been blessed by the Lord and he is a living testimony that God is the God of miracles. Petras is the word for Peter in Greek. It means rock. ";
+var text = "Peter has been blessed by the Lord. Petras is the word for Peter in Greek. It means rock. ";
 var myName = "Peter";
 var hits = [];
 for(var i = 0; i < text.length; i++){
